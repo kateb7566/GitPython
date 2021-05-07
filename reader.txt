@@ -1,0 +1,1 @@
+This is a file that holds information concerning all algorithms that've been coded on this repo.
